@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aquatona - Se conectando ao mundo</title>
+
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Aquatona - Se conectando ao mundo</h1>
+    </header>
+
+    <div id="map"></div>
+
+    <div id="modal-imagem" class="modal">
+        <div class="modal-content">
+            <span class="close-button">&times;</span>
+            <img id="modal-image-full" src="" alt="Imagem ampliada">
+            <p id="modal-image-origin"></p>
+            <p id="modal-image-description"></p>
+        </div>
+    </div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <script src="script.js"></script>
+</body>
+</html>

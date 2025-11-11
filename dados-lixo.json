@@ -1,0 +1,102 @@
+{
+    "Maracanã": {
+        "tipo": "Embalagens plásticas e garrafas",
+        "volume": "Não quantificado",
+        "origem": "China, União Europeia (UE), Taiwan, Suriname",
+        "obs": "Resíduos coletados na praia de Fortalezinha (Fonte: Autores, 2025).",
+        "imagens": [
+            {
+                "caminho": "imagens/lixo_china_1.jpg",
+                "origem_especifica": "China",
+                "marca": "Hebo (和其正)",
+                "descricao": "Garrafa de bebida (Hebo)."
+            },
+            {
+                "caminho": "imagens/lixo_china_2.jpg",
+                "origem_especifica": "China",
+                "marca": "Não identificada",
+                "descricao": "Resíduo da China."
+            },
+            {
+                "caminho": "imagens/lixo_china_3.jpg",
+                "origem_especifica": "China",
+                "marca": "Não identificada",
+                "descricao": "Resíduo da China."
+            },
+            {
+                "caminho": "imagens/lixo_suriname_1.jpg",
+                "origem_especifica": "Suriname",
+                "marca": "Rainbow Pure Water",
+                "descricao": "Garrafa de água (Rainbow Pure Water)."
+            },
+            {
+                "caminho": "imagens/lixo_taiwan_1.jpg",
+                "origem_especifica": "Taiwan",
+                "marca": "Não identificada",
+                "descricao": "Resíduo de Taiwan."
+            },
+            {
+                "caminho": "imagens/lixo_ue_1.jpg",
+                "origem_especifica": "União Europeia (UE)",
+                "marca": "Não identificada",
+                "descricao": "Embalagem de produto europeu."
+            },
+            {
+                "caminho": "imagens/lixo_china_4.jpg",
+                "origem_especifica": "China",
+                "marca": "Não identificada",
+                "descricao": "Resíduo da China."
+            }
+        ]
+    },
+    "Salinópolis": {
+        "tipo": "Embalagens plásticas e garrafas",
+        "volume": "Não quantificado",
+        "origem": "China, Alemanha, Tailândia, Índia",
+        "obs": "Resíduos coletados na praia do Atalaia.",
+        "imagens": [
+            {
+                "caminho": "imagens/salinas_chituma_1.jpg",
+                "origem_especifica": "China",
+                "marca": "CHITUMA (山东 little rabbit)",
+                "descricao": "Álcool desinfetante 75%."
+            },
+            {
+                "caminho": "imagens/salinas_masterkong_1.jpg",
+                "origem_especifica": "China",
+                "marca": "Master Kong (康师傅)",
+                "descricao": "Garrafa de água Master Kong."
+            },
+            {
+                "caminho": "imagens/salinas_aqua_1.jpg",
+                "origem_especifica": "Índia",
+                "marca": "AQUA Drinking Water",
+                "descricao": "Garrafa de água indiana (Kolkata)."
+            },
+            {
+                "caminho": "imagens/salinas_nongfu_2.jpg",
+                "origem_especifica": "China",
+                "marca": "Nongfu Spring (农夫山泉)",
+                "descricao": "Garrafa de água Nongfu Spring 1.5L."
+            },
+            {
+                "caminho": "imagens/salinas_c2u_1.jpg",
+                "origem_especifica": "Tailândia",
+                "marca": "C2U (น้ำดื่ม)",
+                "descricao": "Garrafa de água tailandesa."
+            },
+            {
+                "caminho": "imagens/salinas_balea_1.jpg",
+                "origem_especifica": "Alemanha",
+                "marca": "Balea MEN (dm)",
+                "descricao": "Gel de barbear alemão."
+            },
+            {
+                "caminho": "imagens/salinas_vitamins_1.jpg",
+                "origem_especifica": "China",
+                "marca": "Princeton Pharmacy (Made in China)",
+                "descricao": "Pote de vitaminas (dist. Singapura)."
+            }
+        ]
+    }
+}
